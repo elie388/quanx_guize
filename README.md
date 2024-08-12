@@ -1,1 +1,1 @@
-# quanx_guize
+#自用emby规则
