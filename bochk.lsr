@@ -1,0 +1,6 @@
+# NAME: BOCHK
+# DESCRIPTION: Bank of China Hong Kong
+
+DOMAIN-SUFFIX,bochk.com,DIRECT
+DOMAIN-SUFFIX,etnet.com.hk,DIRECT
+DOMAIN-SUFFIX,etdsinfo.com,DIRECT
